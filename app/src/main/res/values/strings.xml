@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Imho</string>
+    <string name="imho">IMHO</string>
+    <string name="register_app">Register App</string>
+    <string name="text_bottom">Log in</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+</resources>

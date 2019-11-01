@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="text_bottom">#c9c9c9</color>
+    <color name="ripple_effect">#9c0e49</color>
+    <color name="sign_in">#ff0d71</color>
+    <color name="sign_in_stroke">#d91465</color>
+    <color name="register">#e35717</color>
+    <color name="register_stroke">#b34514</color>
+
+
+</resources>

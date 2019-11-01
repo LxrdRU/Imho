@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "392758819862",
+    "firebase_url": "https://imhoapp-cb349.firebaseio.com",
+    "project_id": "imhoapp-cb349",
+    "storage_bucket": "imhoapp-cb349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392758819862:android:ca02664ecff574bcbd4937",
+        "android_client_info": {
+          "package_name": "com.example.imho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392758819862-h69edm0hfk6g4nn0tk3sg58ssshv99j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imho",
+            "certificate_hash": "48f7c7eecf87cef15cf2427ecdd7fa1e0aca599d"
+          }
+        },
+        {
+          "client_id": "392758819862-h9rrbqnrkfe0ngtp7qlcj21ce4to56sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSW2JaijPumNKqcWVzqUpHJ3-zJ7dbW34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392758819862-h9rrbqnrkfe0ngtp7qlcj21ce4to56sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
